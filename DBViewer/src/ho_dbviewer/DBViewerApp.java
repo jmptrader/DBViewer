@@ -2,7 +2,6 @@ package ho_dbviewer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;

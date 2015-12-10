@@ -3,7 +3,6 @@ package ho_dbviewer;
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.util.ArrayList;
-
 import javafx.collections.ObservableList;
 
 class DBVLogic {

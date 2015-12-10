@@ -10,7 +10,7 @@ class DBVjdbc {
 	String sqlDriver = "com.mysql.jdbc.Driver";
 	String dbConnInfo = "jdbc:mysql://127.0.0.1:8889/pcparts";
 	String dbAccoutnName = "root";
-	String dbAccountPwd  = "T7&4L2ggP*";
+	String dbAccountPwd  = "";
 		
 	Connection dbConnection;
 	Statement  dbStatement;
